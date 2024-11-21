@@ -4,5 +4,6 @@ namespace DesafioPOO.Models
     public class Iphone
     {
         // TODO: Sobrescrever o método "InstalarAplicativo"
+        
     }
 }
